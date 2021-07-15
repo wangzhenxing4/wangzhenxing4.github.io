@@ -38,7 +38,7 @@ type: page
 <p><a href="https://halo-8gdvrryid900a98b-1302752378.ap-shanghai.app.tcloudbase.com/upload/2021/07/mmqrcode1625849127363-0fd90bb3a6ba4a0bbb95aca06f6a25b5.png" target="_blank" textvalue="https://halo-8gdvrryid900a98b-1302752378.ap-shanghai.app.tcloudbase.com/upload/2021/07/mmqrcode1625849127363-0fd90bb3a6ba4a0bbb95aca06f6a25b5.png">微信</a></p>
 <p>微信号：2242389481</p>
 <p><a href="https://steamcommunity.com/profiles/76561198940495776/" target="_blank" textvalue="https://steamcommunity.com/profiles/76561198940495776/">蒸汽/steam</a></p>
-<p><a href="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=2242389481" target="_blank" textvalue="mqqapi://card/show_pslcard?src_type=internal&amp;source=sharecard&amp;version=1&amp;uin=2242389481">QQ(备用链接)</a></p>
+<p><a href="链接" target="_blank" textvalue="连接">--------</a></p>
 <p><a href="https://uploader.shimo.im/f/PdJQn0lbmpISXks8.png" target="_blank" textvalue="https://uploader.shimo.im/f/PdJQn0lbmpISXks8.png">抖音</a></p>
 <p><a href="http://www.coolapk.com/u/2698377" target="_blank" textvalue="http://www.coolapk.com/u/2698377">酷安</a></p>
 <p><a href="https://c.y.qq.com/base/fcgi-bin/u?__=6EBZyJ0" target="_blank" textvalue="https://c.y.qq.com/base/fcgi-bin/u?__=6EBZyJ0">QQ音乐/</a></p>
