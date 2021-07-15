@@ -54,7 +54,7 @@ type: page
 <p>腾讯游戏:已经全部退游</p>
 <p>网易游戏:没有任何游戏</p>
 
-##其他
+## 其他
 
 喜欢羽毛球运动、听音乐、和看电影偶尔追一下剧；
 
@@ -68,7 +68,7 @@ type: page
 
 夯实基础，万丈高楼平地起，需要巩固基础知识
 
-##免责声明
+## 免责声明
 
 本站所有文章为了记录学习、编程及生活随笔，可能由于本人能力有限，有些不正确的地方，仅供参考
 
@@ -84,7 +84,7 @@ type: page
 
 本网站所有作品采用 知识共享署名-相同方式共享 4.0 国际许可协议 进行许可。
 
-##商业转载请联系作者获得授权，非商业转载请注明出处。
+## 商业转载请联系作者获得授权，非商业转载请注明出处。
 
 ## English simplified version
 
@@ -152,7 +152,7 @@ type: page
 
  <p>Netease games: no games</p>
 
- ##other
+ ## other
 
  Like badminton, listening to music, and watching movies and occasionally chasing dramas;
 
@@ -164,7 +164,7 @@ type: page
 
  To lay a solid foundation, to rise from the ground, the basic knowledge needs to be consolidated
 
- ##Disclaimer
+ ## Disclaimer
 
  All articles on this site are intended to record learning, programming and life essays. Due to my limited ability, some incorrect places are for reference only.
 
@@ -180,4 +180,4 @@ type: page
 
  All works on this website are licensed under the Creative Commons Attribution-Sharing in the Same Way 4.0 International License Agreement.
 
- ##Commercial reprint, please contact the author for authorization, non-commercial reprint, please indicate the source.
+ ## Commercial reprint, please contact the author for authorization, non-commercial reprint, please indicate the source.
