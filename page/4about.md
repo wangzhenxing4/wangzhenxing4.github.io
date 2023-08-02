@@ -30,9 +30,7 @@ type: page
 <p>班级：高中：平定县第二中学校2020届</p>
 <p>高一：263班，高二：259班，高三：260班</p>
 
-
 ## 联系我
-
 
 <p><a href="mqqapi://card/show_pslcard?src_type=internal&version=1&uin=2242389481&card_type=person&source=qrcode" target="_blank" textvalue="mqqapi://card/show_pslcard?src_type=internal&version=1&uin=2242389481&card_type=person&source=qrcode">QQ</a></p>
 <p>QQ：2242389481</p>
@@ -56,8 +54,8 @@ type: page
 <p>腾讯游戏:王者荣耀：王振兴同学鸭，和平精英：王振兴同学鸭、王振兴同学吖</p>
 <p>网易游戏:没有任何游戏</p>
 
-
 ## 其他
+
 <p></p>
 <p></p>
 <p>喜欢羽毛球运动、听音乐、和看电影偶尔追一下剧</p>
