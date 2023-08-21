@@ -32,7 +32,6 @@ type: page
 
 ## 联系方式
 
-<p><a href="mqqapi://card/show_pslcard?src_type=internal&version=1&uin=2242389481&card_type=person&source=qrcode" target="_blank" textvalue="mqqapi://card/show_pslcard?src_type=internal&version=1&uin=2242389481&card_type=person&source=qrcode">QQ</a></p>
 <p>QQ：2242389481</p>
 <p>微信号:wangzhenxing4</p>
 <p><a href="https://steamcommunity.com/profiles/76561198940495776/" target="_blank" textvalue="https://steamcommunity.com/profiles/76561198940495776/">蒸汽/steam</a></p>
