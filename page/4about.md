@@ -35,7 +35,7 @@ type: page
 
 <p>QQ：2242389481</p>
 <p>微信号:wangzhenxing4</p>
-<p><a href="https://steamcommunity.com/profiles/76561198940495776/" target="_blank" textvalue="https://steamcommunity.com/profiles/76561198940495776/">蒸汽/steam</a></p>
+<p><a href="https://steamcommunity.com/profiles/76561198940495776/" target="_blank" textvalue="https://steamcommunity.com/profiles/76561198940495776/">steam</a></p>
 <p><a href="链接" target="_blank" textvalue="连接">--------</a></p>
 <p><a href="https://uploader.shimo.im/f/PdJQn0lbmpISXks8.png" target="_blank" textvalue="https://uploader.shimo.im/f/PdJQn0lbmpISXks8.png">抖音</a></p>
 <p><a href="http://www.coolapk.com/u/2698377" target="_blank" textvalue="http://www.coolapk.com/u/2698377">酷安</a></p>
