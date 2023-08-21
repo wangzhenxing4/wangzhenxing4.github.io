@@ -38,8 +38,8 @@ type: page
 <p><a href="链接" target="_blank" textvalue="连接">--------</a></p>
 <p><a href="https://uploader.shimo.im/f/PdJQn0lbmpISXks8.png" target="_blank" textvalue="https://uploader.shimo.im/f/PdJQn0lbmpISXks8.png">抖音</a></p>
 <p><a href="http://www.coolapk.com/u/2698377" target="_blank" textvalue="http://www.coolapk.com/u/2698377">酷安</a></p>
-<p><a href="https://c.y.qq.com/base/fcgi-bin/u?__=6EBZyJ0" target="_blank" textvalue="https://c.y.qq.com/base/fcgi-bin/u?__=6EBZyJ0">QQ音乐/</a></p>
-<p><a href="https://t.me/ZhenxingWang" target="_blank" textvalue="https://t.me/ZhenxingWang">电报</a></p>
+<p><a href="https://c.y.qq.com/base/fcgi-bin/u?__=6EBZyJ0" target="_blank" textvalue="https://c.y.qq.com/base/fcgi-bin/u?__=6EBZyJ0">QQ音乐</a></p>
+<p><a href="https://t.me/ZhenxingWang" target="_blank" textvalue="https://t.me/ZhenxingWang">Telegram</a></p>
 <p><a href="https://www.facebook.com/profile.php?id=100048466251642" target="_blank" textvalue="https://www.facebook.com/profile.php?id=100048466251642">Fackbook</a></p>
 <p><a href="https://twitter.com/WangZhenxing4?s=09" target="_blank" textvalue="https://twitter.com/WangZhenxing4?s=09">推特</a></p>
 <p><a href="http://tiktok.com/@user53152252" target="_blank" textvalue="http://tiktok.com/@user53152252">抖音海外版</a></p>
